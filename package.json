@@ -1,0 +1,14 @@
+{
+  "name": "@gijolla/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "dokicogi/tiny",
+  "main": "index.ts",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "gijolla"
+  ]
+}
